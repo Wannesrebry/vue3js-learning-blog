@@ -1,5 +1,24 @@
 # vue3js-learning - Wannes Rebry
 
+## install vue-packages
+```
+// vuex 
+npm install vuex --save
+
+//vue router
+npm install vue-router --save
+
+//
+
+
+```
+
+
+
+
+
+
+
 ## Project setup
 ```
 npm install
