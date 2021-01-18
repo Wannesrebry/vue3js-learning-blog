@@ -1,4 +1,4 @@
-# vue3js-learning
+# vue3js-learning - Wannes Rebry
 
 ## Project setup
 ```
